@@ -1,0 +1,4 @@
+otional ->C:\Users\HP\OneDrive\Desktop\Potato>py -3.11 -m venv --system-site-packages potato_env
+TO activate gradio:
+C:\Users\HP\OneDrive\Desktop\Potato>potato_env\Scripts\activate
+in terminal go in the dir of folder and type:python disease.py
